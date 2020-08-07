@@ -33,3 +33,7 @@ composer.phar
 atlassian-ide-plugin.xml
 /node_modules/
 /.vscode/
+
+docs/developers.data
+docs/temp/
+
