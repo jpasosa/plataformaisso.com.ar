@@ -37,3 +37,6 @@ atlassian-ide-plugin.xml
 docs/developers.data
 docs/temp/
 
+sftp-config.json
+
+
