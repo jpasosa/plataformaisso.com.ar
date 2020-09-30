@@ -1,5 +1,24 @@
 
 
+30-sept-2020
+
+Se copia un curso, y se divide en las diferentes materias
+
+Para realizarlo entramos
+Administración / Vamos al nuevo curso / editamos / Importar / y seleccionamos el curso desde donde importamos, y los recursos que querramos.......
+No nos dio buen resultado hacer la copia del curso directamente, que hay una opción.... entonces hagamos lo que dije arriba....
+
+
+
+
+Hay que acordarse de generar el cron por script cada un minuto, averiguar bien y hacerlo....
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 18-agosto-2020
 
 en los permisos de alumno se saca que se pueda ver a otros participantes.
